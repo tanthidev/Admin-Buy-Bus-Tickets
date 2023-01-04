@@ -6,7 +6,7 @@
 	- http://localhost:8080 để kiểm tra website
 
 Xử lý sự cố khi cần cài lại tự đầu 
- 1. Di chuyển dòng lệnh đến thư mục gốc (52001234_NguyenVanA) và gõ lệnh 'docker-compose down'
+ 1. Di chuyển dòng lệnh đến thư mục gốc và gõ lệnh 'docker-compose down'
  2. Gõ 'docker images' để xem danh sách các docker images đang có 
  3. Gõ 'docker rmi <id của image>' để xóa hết các image.
  4. Gõ lệnh 'docker-compose up -d' để chạy lại từ đầu.
