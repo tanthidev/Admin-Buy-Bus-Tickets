@@ -11,7 +11,7 @@ A web module for an android application to help administrators manage bus bookin
 ## Application Installation
 1. Clone the repository: `git clone https://github.com/tanthidev/Admin-Buy-Bus-Tickets.git`
 2. Change into the repository directory: `cd Admin-Buy-Bus-Tickets`
-3. Build the Docker image: `docker build -t admin-buy-bus-tickets .`
+3. Build the Docker image: `docker build -t admin-buy-bus-tickets`
 4. Run the Docker container: `docker run -p 80:80 admin-buy-bus-tickets`
 
 ## Features
